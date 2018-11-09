@@ -1,0 +1,11 @@
+c:\users\ana.paiz.roca\source\repos\Ahorcado\Ahorcado\bin\Debug\netcoreapp2.0\Ahorcado.deps.json
+c:\users\ana.paiz.roca\source\repos\Ahorcado\Ahorcado\bin\Debug\netcoreapp2.0\Ahorcado.runtimeconfig.json
+c:\users\ana.paiz.roca\source\repos\Ahorcado\Ahorcado\bin\Debug\netcoreapp2.0\Ahorcado.runtimeconfig.dev.json
+c:\users\ana.paiz.roca\source\repos\Ahorcado\Ahorcado\bin\Debug\netcoreapp2.0\Ahorcado.dll
+c:\users\ana.paiz.roca\source\repos\Ahorcado\Ahorcado\bin\Debug\netcoreapp2.0\Ahorcado.pdb
+c:\users\ana.paiz.roca\source\repos\Ahorcado\Ahorcado\obj\Debug\netcoreapp2.0\Ahorcado.csprojResolveAssemblyReference.cache
+c:\users\ana.paiz.roca\source\repos\Ahorcado\Ahorcado\obj\Debug\netcoreapp2.0\Ahorcado.csproj.CoreCompileInputs.cache
+c:\users\ana.paiz.roca\source\repos\Ahorcado\Ahorcado\obj\Debug\netcoreapp2.0\Ahorcado.AssemblyInfoInputs.cache
+c:\users\ana.paiz.roca\source\repos\Ahorcado\Ahorcado\obj\Debug\netcoreapp2.0\Ahorcado.AssemblyInfo.cs
+c:\users\ana.paiz.roca\source\repos\Ahorcado\Ahorcado\obj\Debug\netcoreapp2.0\Ahorcado.dll
+c:\users\ana.paiz.roca\source\repos\Ahorcado\Ahorcado\obj\Debug\netcoreapp2.0\Ahorcado.pdb
