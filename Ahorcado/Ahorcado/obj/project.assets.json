@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\ana.paiz.roca\\source\\repos\\Ahorcado\\Ahorcado\\Ahorcado.csproj",
+      "projectUniqueName": "C:\\Users\\ana.paiz.roca\\Source\\Repos\\BECA\\Ahorcado\\Ahorcado\\Ahorcado.csproj",
       "projectName": "Ahorcado",
-      "projectPath": "c:\\users\\ana.paiz.roca\\source\\repos\\Ahorcado\\Ahorcado\\Ahorcado.csproj",
+      "projectPath": "C:\\Users\\ana.paiz.roca\\Source\\Repos\\BECA\\Ahorcado\\Ahorcado\\Ahorcado.csproj",
       "packagesPath": "C:\\Users\\ana.paiz.roca\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\ana.paiz.roca\\source\\repos\\Ahorcado\\Ahorcado\\obj\\",
+      "outputPath": "C:\\Users\\ana.paiz.roca\\Source\\Repos\\BECA\\Ahorcado\\Ahorcado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

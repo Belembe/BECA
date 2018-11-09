@@ -4,6 +4,7 @@ namespace Ahorcado
 {
     class Ahorcadito
     {
+
         //static void Main()
         //{
         //    string[,] matriz = new string[8, 6];
