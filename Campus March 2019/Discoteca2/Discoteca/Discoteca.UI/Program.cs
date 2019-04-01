@@ -11,6 +11,7 @@ namespace Videoteca.UI
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// prueba1
         [STAThread]
         static void Main()
         {
