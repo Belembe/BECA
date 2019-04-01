@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Videoteca.UI.Properties
+namespace Discoteca.Properties
 {
 
 
