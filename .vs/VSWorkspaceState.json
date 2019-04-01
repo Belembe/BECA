@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Campus March 2019",
+    "\\Campus March 2019\\Discoteca1",
+    "\\Campus March 2019\\Discoteca1\\Discoteca",
+    "\\Campus March 2019\\Discoteca1\\Discoteca\\Discoteca.UI",
     "\\Campus March 2019\\Discoteca3",
     "\\Campus March 2019\\Discoteca3\\Discoteca"
   ],
-  "SelectedNode": "\\Campus March 2019\\Discoteca3\\Discoteca\\Discoteca.sln",
+  "SelectedNode": "\\Campus March 2019\\Discoteca1\\Discoteca\\Discoteca.UI\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
