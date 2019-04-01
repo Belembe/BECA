@@ -28,6 +28,8 @@ namespace DiscotecaData
 
 
 
+
+
             Database.dtsDiscoteca.PistaDataTable table = new Database.dtsDiscoteca.PistaDataTable();
             table.Rows.Add(idCantante,nombre,nacionalidad,discos);
         }
