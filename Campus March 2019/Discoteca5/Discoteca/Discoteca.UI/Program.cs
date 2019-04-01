@@ -13,7 +13,7 @@ namespace Videoteca.UI
         /// </summary>
         [STAThread]
         static void Main()
-        {//Jelous
+        {//hello world!
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
