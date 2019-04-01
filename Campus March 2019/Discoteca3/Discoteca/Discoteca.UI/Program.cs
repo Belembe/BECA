@@ -15,6 +15,7 @@ namespace Videoteca.UI
         static void Main()
         {
             Application.EnableVisualStyles();
+            //estoy aqui todo correcto
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
